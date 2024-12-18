@@ -214,10 +214,10 @@ sudo systemctl status nginx
 
 Çıktı olarak `active (running)` almalıyız.
 
-````bash
+```bash
 Output
 ● nginx.service - A high performance web server and a reverse proxy server
-    ```plaintext
+    plaintext
         Loaded: loaded (/lib/systemd/system/nginx.service; enabled; vendor preset: enabled)
         Active: active (running) since Fri 2020-04-20 16:08:19 UTC; 3 days ago
           Docs: man:nginx(8)
@@ -227,7 +227,7 @@ Output
         CGroup: /system.slice/nginx.service
                   ├─2369 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
                   └─2380 nginx: worker process
-    ```
+```
 
     Tarayıcımızdan sunucumuzun IP adresine gittiğimizde Nginx sayfasını görmeliyiz.
 
@@ -273,6 +273,7 @@ Output
     <body>
          <h1>Hoş geldin kardeşim</h1>
     ```
+
 </body>
 </html>
 ````
