@@ -229,54 +229,50 @@ Output
                   └─2380 nginx: worker process
 ```
 
-    Tarayıcımızdan sunucumuzun IP adresine gittiğimizde Nginx sayfasını görmeliyiz.
+Tarayıcımızdan sunucumuzun IP adresine gittiğimizde Nginx sayfasını görmeliyiz.
 
-    nginx kontrol etmek için komutlar
+nginx kontrol etmek için komutlar
 
-    ```bash
-    sudo systemctl stop nginx
-    sudo systemctl start nginx
-    sudo systemctl restart nginx
-    sudo systemctl reload nginx
-    sudo systemctl disable nginx
-    sudo systemctl enable nginx
-    ```
+```bash
+sudo systemctl stop nginx
+sudo systemctl start nginx
+sudo systemctl restart nginx
+sudo systemctl reload nginx
+sudo systemctl disable nginx
+sudo systemctl enable nginx
+```
 
-    Nginx servisinin active ve enable olduğuna emin olalım.
+Nginx servisinin active ve enable olduğuna emin olalım.
 
-    ## SSL Sertifikası
+## SSL Sertifikası
 
-    Sunucumuzda SSL sertifikası kullanarak güvenli bir bağlantı sağlayabiliriz. Certbot paketini aşağıdaki adreste bulunan adımları takip ederek kurabiliriz.
+Sunucumuzda SSL sertifikası kullanarak güvenli bir bağlantı sağlayabiliriz. Certbot paketini aşağıdaki adreste bulunan adımları takip ederek kurabiliriz.
+[Certbot Kurulumu](https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx)
+Kurulum sonrasında sertifikayı oluşturalım.
 
-    [Certbot Kurulumu](https://certbot.eff.org/lets-encrypt/ubuntubionic-nginx)
+```ash
+sudo certbot --nginx
+```
 
-    Kurulum sonrasında sertifikayı oluşturalım.
+## İlk Websitemiz
 
-    ```bash
-    sudo certbot --nginx
-    ```
+Sunucumuzda web sitesi yayınlamak için `/var/www/html` klasörüne dosyalarımızı yükleyebiliriz. Örnek bir index.html dosyası oluşturalım.
 
-    ## İlk Websitemiz
+```bash
+sudo vim /var/www/html/index.html
+```
 
-    Sunucumuzda web sitesi yayınlamak için `/var/www/html` klasörüne dosyalarımızı yükleyebiliriz. Örnek bir index.html dosyası oluşturalım.
-
-    ```bash
-    sudo vim /var/www/html/index.html
-    ```
-
-    ```html
-    <!DOCTYPE html>
-    <html>
-    <head>
-         <title>Bu Bir Web Sitesidir</title>
-    </head>
-    <body>
-         <h1>Hoş geldin kardeşim</h1>
-    ```
-
-</body>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bu Bir Web Sitesidir</title>
+  </head>
+  <body>
+    <h1>Hoş geldin kardeşim</h1>
+  </body>
 </html>
-````
+```
 
 Tarayıcımızdan sunucumuzun IP adresine gittiğimizde oluşturduğumuz web sitesini görmeliyiz.
 
