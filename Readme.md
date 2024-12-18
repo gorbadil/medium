@@ -1,3 +1,3 @@
 ## Linkler
 
-- [VPS Kurulumu](VPS_Kurulumu.md)
+- [1 - VPS Kurulum](./VPS_Kurulum.md)
