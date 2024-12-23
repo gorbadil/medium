@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "type": "Blog",
     "name": "VPS Kurulumu",
     "acıklama": "Güvenlik VPS Kurulumu",
     "desc": "Guide for set up VPS server with securily SSH connection and Docker installation on Ubuntu operating system.",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+    "type": "Blog",
     "name": "Docker k8s Jenkins",
     "acıklama": "CI/CD için Docker, Kubernetes ve Jenkins Kurulum Rehberi",
     "desc": "Guide for set up Docker, Kubernetes and Jenkins for CI/CD pipeline.",
