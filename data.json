@@ -2,19 +2,25 @@
   {
     "id": 1,
     "type": "Blog",
+    "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*eXE5JbXGqD_Wjzj9xGc1sg.jpeg",
     "name": "VPS Kurulumu",
     "acıklama": "Güvenlik VPS Kurulumu",
     "desc": "Guide for set up VPS server with securily SSH connection and Docker installation on Ubuntu operating system.",
     "mediumTr": "https://medium.com/@gorbadil/güvenli-bir-vps-sunucusu-nasıl-kurulur-daca9dec1ca0",
-    "gitMarkdown": "https://github.com/gorbadil/medium/blob/main/VPS_Kurulum.md"
+    "mediumEn": "https://medium.com/@gorbadil/how-to-setup-a-secure-vps-server-7597b95440c9",
+    "gitMarkdownTR": "https://github.com/gorbadil/medium/blob/main/VPS_Kurulum.md",
+    "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/VPS_Installation.md"
   },
   {
     "id": 2,
     "type": "Blog",
+    "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*5J5fPd2CRRqkXV9W.png",
     "name": "Docker k8s Jenkins",
     "acıklama": "CI/CD için Docker, Kubernetes ve Jenkins Kurulum Rehberi",
     "desc": "Guide for set up Docker, Kubernetes and Jenkins for CI/CD pipeline.",
     "mediumTr": "https://medium.com/@gorbadil/vps-üzerinde-continuous-integration-continuous-deployment-ci-cd-kurulumu-ve-nginx-reverse-proxy-1a4f990cc905",
-    "gitMarkdown": "https://github.com/gorbadil/medium/blob/main/VPS_Docker_k8s_Jenkins.md"
+    "mediumEn": "https://medium.com/@gorbadil/vps-docker-kubernetes-jenkins-installation-and-nginx-reverse-proxy-deb75d9caf80",
+    "gitMarkdown": "https://github.com/gorbadil/medium/blob/main/VPS_Docker_k8s_Jenkins.md",
+    "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/VPS_Docker_k8s_Jenkins_en.md"
   }
 ]
