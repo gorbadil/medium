@@ -1,5 +1,3 @@
-<!-- İngilizceye çevir -->
-
 # Github Webhook with Jenkins Automation
 
 ## What is Github Webhook?
