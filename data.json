@@ -41,7 +41,7 @@
   {
     "id": 4,
     "type": "Blog",
-    "image": "",
+    "image": "https://blog.timja.dev/content/images/2022/05/image-5.png",
     "nameTr": "Jenkins Github Entegrasyonu",
     "nameEn": "Jenkins Github Integration",
     "acıklama": "Jenkins Github Webhook yardımı ile otomasyon",
