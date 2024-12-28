@@ -5,7 +5,10 @@
    - Markdown: [VPS Kurulum](https://github.com/gorbadil/medium/blob/main/VPS_Kurulum.md)
 2. VPS Docker k8s Jenkins Kurulum
    - Medium makale: [VPS Docker k8s Jenkins Kurulum](https://medium.com/@gorbadil/vps-üzerinde-continuous-integration-continuous-deployment-ci-cd-kurulumu-ve-nginx-reverse-proxy-1a4f990cc905)
-   - [VPS Docker k8s Jenkins Kurulum](https://github.com/gorbadil/medium/blob/main/VPS_Docker_k8s_Jenkins.md)
+   - Markdown: [VPS Docker k8s Jenkins Kurulum](https://github.com/gorbadil/medium/blob/main/VPS_Docker_k8s_Jenkins.md)
+3. Ölçeklenebilir Jenkins k8s
+   - Medium makale: [Ölçeklenebilir Jenkins k8s](https://medium.com/@gorbadil/ölçeklenebilir-jenkins-kubernetes-üzerinde-continuous-integration-continuous-deployment-ci-cd-1b1b3b3b3b3b)
+   - Markdown: [Ölçeklenebilir Jenkins k8s](https://github.com/gorbadil/medium/blob/main/Ölçeklenebilir_Jenkins_k8s.md)
 
 ## Links
 
@@ -14,4 +17,7 @@
    - Markdown: [VPS Installation](./VPS_Installation.md)
 2. VPS Docker k8s Jenkins Installation
    - Medium article: [VPS Docker k8s Jenkins Installation](https://medium.com/@gorbadil/vps-docker-kubernetes-jenkins-installation-and-nginx-reverse-proxy-deb75d9caf80)
-   - [VPS Docker k8s Jenkins Installation](./VPS_Docker_k8s_Jenkins_end.md)
+   - Markdown: [VPS Docker k8s Jenkins Installation](./VPS_Docker_k8s_Jenkins_end.md)
+3. Scalable Jenkins k8s
+   - Medium article: [Scalable Jenkins k8s](https://medium.com/@gorbadil/jenkins-on-kubernetes-88b2322e1469scalable-jenkins-continuous-integration-continuous-deployment-ci-cd-on-kubernetes-1b1b3b3b3b3b)
+   - Markdown: [Scalable Jenkins k8s](https://github.com/gorbadil/medium/blob/main/Scalable_Jenkins_Kubernetes.md)

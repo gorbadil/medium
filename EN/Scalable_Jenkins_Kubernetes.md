@@ -155,7 +155,7 @@ Manage Jenkins → Clouds → New cloud
 
 After clicking on New cloud, you will see the following page.
 
-![New-cloud-jenkins](./New-cloud-jenkins.png)
+![New-cloud-jenkins](../images/New-cloud-jenkins.png)
 
 ```bash
 kubectl cluster-info
@@ -182,7 +182,7 @@ Jenkins için url kısmına aşağıdaki şekilde yazın.
 http://192.168.49.2:32001
 ```
 
-![New-cloud-jenkins](./New-cloud-jenkins.png)
+![New-cloud-jenkins](../images/New-cloud-jenkins.png)
 
 After filling in the necessary information, click on the Save button.
 
@@ -200,7 +200,7 @@ After filling in the necessary information, click on the Save button.
 
 Any name can be given, and it will be shown as a prefix for the names of automatically generated Jenkins agents. These agents will be automatically run during build processes.
 
-![Pod-template](./Pod-template.png)
+![Pod-template](../images/Pod-template.png)
 
 Installation is complete. Now let's test it.
 

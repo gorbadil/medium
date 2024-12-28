@@ -189,7 +189,7 @@ Jenkins için url kısmına aşağıdaki şekilde yazın.
 http://192.168.49.2:32001
 ```
 
-![New-cloud-jenkins](./New-cloud-jenkins.png)
+![New-cloud-jenkins](../images/New-cloud-jenkins.png)
 
 - Eğer HTTPS yapısı kullanıyorsanız WebSocket seçeneğini işaretlemeniz gerekiyor. Aksi takdirde Jenkins agent'ları çalışmayacaktır.
 
@@ -205,7 +205,7 @@ Kayıt işlemi tamamlandıktan sonra bizi Cloud sayfasına yönlendirecek. Burad
 
 Herhangi bir ad olabilir ve otomatik olarak oluşturulan Jenkins ajanlarının adları için bir ön ek olarak gösterilecektir. Bu ajanlar, build işlemleri sırasında otomatik olarak çalıştırılacaktır.
 
-![Pod-template](./Pod-template.png)
+![Pod-template](../images/Pod-template.png)
 
 Kurulum tamamlandı. Şimdi testini yapalım.
 
