@@ -34,8 +34,8 @@
     "acıklama": "Kubernetes Üzerinde Ölçeklenebilir Jenkins Kurulumu",
     "desc": "Guide for set up scalable Jenkins on Kubernetes.",
     "mediumTr": "https://medium.com/@gorbadil/jenkins-on-kubernetes-8d2c422c08b8",
-    "mediumEn": "https://medium.com/@gorbadil/scalable-jenkins-installation-on-kubernetes-1b3b3b3b3b3b",
-    "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/Ölçeklenebilir_Jenkins_Kubernetes.md",
+    "mediumEn": "https://medium.com/@gorbadil/jenkins-on-kubernetes-88b2322e1469",
+    "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/Ölçeklenebilir_Jenkins_k8s.md",
     "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/Scalable_Jenkins_Kubernetes.md"
   },
   {
