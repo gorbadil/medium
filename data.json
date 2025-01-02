@@ -33,7 +33,7 @@
     "nameEn": "Scalable Jenkins Installation on Kubernetes",
     "acıklama": "Kubernetes Üzerinde Ölçeklenebilir Jenkins Kurulumu",
     "desc": "Guide for set up scalable Jenkins on Kubernetes.",
-    "mediumTr": "",
+    "mediumTr": "https://medium.com/@gorbadil/jenkins-on-kubernetes-8d2c422c08b8",
     "mediumEn": "https://medium.com/@gorbadil/scalable-jenkins-installation-on-kubernetes-1b3b3b3b3b3b",
     "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/Ölçeklenebilir_Jenkins_Kubernetes.md",
     "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/Scalable_Jenkins_Kubernetes.md"
@@ -47,7 +47,7 @@
     "acıklama": "Jenkins Github Webhook yardımı ile otomasyon",
     "desc": "Guide for Jenkins Github Webhook integration for automation.",
     "mediumTr": "",
-    "mediumEn": "",
+    "mediumEn": "https://medium.com/@gorbadil/github-webhook-with-jenkins-automation-0c7c4a1176a0",
     "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/Jenkins_Github_Otomasyonu.md",
     "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/Jenkins_Github_Automation.md"
   }
