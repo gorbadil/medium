@@ -2,53 +2,65 @@
   {
     "id": 1,
     "type": "Blog",
+    "domain": "VPS",
     "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*eXE5JbXGqD_Wjzj9xGc1sg.jpeg",
-    "nameTr": "VPS Kurulumu",
-    "nameEn": "VPS Installation",
-    "acıklama": "Güvenlik VPS Kurulumu",
-    "desc": "Guide for set up VPS server with securily SSH connection and Docker installation on Ubuntu operating system.",
-    "mediumTr": "https://medium.com/@gorbadil/güvenli-bir-vps-sunucusu-nasıl-kurulur-daca9dec1ca0",
-    "mediumEn": "https://medium.com/@gorbadil/how-to-setup-a-secure-vps-server-7597b95440c9",
-    "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/VPS_Kurulum.md",
-    "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/VPS_Installation.md"
+    "tr": {
+      "desc": "Ubuntu işletim sistemi üzerinde güvenli bir VPS sunucusu kurulumu ve Docker yükleme rehberi.",
+      "medium": "https://medium.com/@gorbadil/güvenli-bir-vps-sunucusu-nasıl-kurulur-daca9dec1ca0",
+      "git": "https://github.com/gorbadil/medium/blob/main/TR/VPS_Kurulum.md"
+    },
+    "en": {
+      "desc": "Guide for set up VPS server with securily SSH connection and Docker installation on Ubuntu operating system.",
+      "medium": "https://medium.com/@gorbadil/how-to-setup-a-secure-vps-server-7597b95440c9",
+      "git": "https://github.com/gorbadil/medium/blob/main/EN/VPS_Installation.md"
+    }
   },
   {
     "id": 2,
     "type": "Blog",
+    "domain": "VPS",
     "image": "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*5J5fPd2CRRqkXV9W.png",
-    "nameTr": "Docker k8s Jenkins",
-    "nameEn": "Docker k8s Jenkins",
-    "acıklama": "CI/CD için Docker, Kubernetes ve Jenkins Kurulum Rehberi",
-    "desc": "Guide for set up Docker, Kubernetes and Jenkins for CI/CD pipeline.",
-    "mediumTr": "https://medium.com/@gorbadil/vps-üzerinde-continuous-integration-continuous-deployment-ci-cd-kurulumu-ve-nginx-reverse-proxy-1a4f990cc905",
-    "mediumEn": "https://medium.com/@gorbadil/vps-docker-kubernetes-jenkins-installation-and-nginx-reverse-proxy-deb75d9caf80",
-    "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/VPS_Docker_k8s_Jenkins.md",
-    "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/VPS_Docker_k8s_Jenkins_en.md"
+    "tr": {
+      "desc": "CI/CD için Docker, Kubernetes ve Jenkins Kurulum Rehberi",
+      "medium": "https://medium.com/@gorbadil/vps-üzerinde-continuous-integration-continuous-deployment-ci-cd-kurulumu-ve-nginx-reverse-proxy-1a4f990cc905",
+      "git": "https://github.com/gorbadil/medium/blob/main/TR/VPS_Docker_k8s_Jenkins.md"
+    },
+    "en": {
+      "desc": "Guide for set up Docker, Kubernetes and Jenkins for CI/CD pipeline.",
+      "medium": "https://medium.com/@gorbadil/vps-docker-kubernetes-jenkins-installation-and-nginx-reverse-proxy-deb75d9caf80",
+      "git": "https://github.com/gorbadil/medium/blob/main/EN/VPS_Docker_k8s_Jenkins_en.md"
+    }
   },
   {
     "id": 3,
     "type": "Blog",
+    "domain": "VPS",
     "image": "https://i0.wp.com/miro.medium.com/max/793/1%2AFTOk9-90W1-0OUURFc0oEg.png?w=1300&ssl=1",
-    "nameTr": "Kubernetes Üzerinde Ölçeklenebilir Jenkins Kurulumu",
-    "nameEn": "Scalable Jenkins Installation on Kubernetes",
-    "acıklama": "Kubernetes Üzerinde Ölçeklenebilir Jenkins Kurulumu",
-    "desc": "Guide for set up scalable Jenkins on Kubernetes.",
-    "mediumTr": "https://medium.com/@gorbadil/jenkins-on-kubernetes-8d2c422c08b8",
-    "mediumEn": "https://medium.com/@gorbadil/jenkins-on-kubernetes-88b2322e1469",
-    "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/Ölçeklenebilir_Jenkins_k8s.md",
-    "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/Scalable_Jenkins_Kubernetes.md"
+    "tr": {
+      "desc": "Kubernetes Üzerinde Ölçeklenebilir Jenkins Kurulumu",
+      "medium": "https://medium.com/@gorbadil/jenkins-on-kubernetes-8d2c422c08b8",
+      "git": "https://github.com/gorbadil/medium/blob/main/TR/Ölçeklenebilir_Jenkins_k8s.md"
+    },
+    "en": {
+      "desc": "Guide for set up scalable Jenkins on Kubernetes.",
+      "medium": "https://medium.com/@gorbadil/jenkins-on-kubernetes-88b2322e1469",
+      "git": "https://github.com/gorbadil/medium/blob/main/EN/Scalable_Jenkins_Kubernetes.md"
+    }
   },
   {
     "id": 4,
     "type": "Blog",
+    "domain": "VPS",
     "image": "https://blog.timja.dev/content/images/2022/05/image-5.png",
-    "nameTr": "Jenkins Github Entegrasyonu",
-    "nameEn": "Jenkins Github Integration",
-    "acıklama": "Jenkins Github Webhook yardımı ile otomasyon",
-    "desc": "Guide for Jenkins Github Webhook integration for automation.",
-    "mediumTr": "",
-    "mediumEn": "https://medium.com/@gorbadil/github-webhook-with-jenkins-automation-0c7c4a1176a0",
-    "gitMarkdownTr": "https://github.com/gorbadil/medium/blob/main/TR/Jenkins_Github_Otomasyonu.md",
-    "gitMarkdownEn": "https://github.com/gorbadil/medium/blob/main/EN/Jenkins_Github_Automation.md"
+    "tr": {
+      "desc": "Jenkins Github Webhook yardımı ile otomasyon",
+      "medium": "",
+      "git": "https://github.com/gorbadil/medium/blob/main/TR/Jenkins_Github_Otomasyonu.md"
+    },
+    "en": {
+      "desc": "Guide for Jenkins Github Webhook integration for automation.",
+      "medium": "https://medium.com/@gorbadil/github-webhook-with-jenkins-automation-0c7c4a1176a0",
+      "git": "https://github.com/gorbadil/medium/blob/main/EN/Jenkins_Github_Automation.md"
+    }
   }
 ]
