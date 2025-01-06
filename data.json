@@ -54,7 +54,7 @@
     "image": "https://blog.timja.dev/content/images/2022/05/image-5.png",
     "tr": {
       "desc": "Jenkins Github Webhook yardımı ile otomasyon",
-      "medium": "",
+      "medium": "https://medium.com/@gorbadil/github-webhook-ile-jenkins-otomasyonu-b9285a4322f2",
       "git": "https://github.com/gorbadil/medium/blob/main/TR/Jenkins_Github_Otomasyonu.md"
     },
     "en": {
