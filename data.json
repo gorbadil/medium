@@ -62,5 +62,21 @@
       "medium": "https://medium.com/@gorbadil/github-webhook-with-jenkins-automation-0c7c4a1176a0",
       "git": "https://github.com/gorbadil/medium/blob/main/EN/Jenkins_Github_Automation.md"
     }
+  },
+  {
+    "id": 5,
+    "type": "Blog",
+    "domain": "VPS",
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQFp1jZkE3Hhpg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705993275208?e=2147483647&v=beta&t=YTRJc6z32SSVNF4Jq0Iyxt19MS7of0X8JofoU5-pZ48",
+    "tr": {
+      "desc": "Github, Jenkins ve DockerHub ile Otomasyon",
+      "medium": "",
+      "git": "https://github.com/gorbadil/medium/blob/main/TR/Github_Jenkins_DockerHub.md"
+    },
+    "en": {
+      "desc": "Automation with Github, Jenkins and DockerHub",
+      "medium": "",
+      "git": "https://github.com/gorbadil/medium/blob/main/EN/Github_Jenkins_DockerHub.md"
+    }
   }
 ]
